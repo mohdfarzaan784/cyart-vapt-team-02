@@ -37,5 +37,4 @@ Successfully exploited vulnerabilities, extracted database information, and achi
 * diagram.png → Attack path diagram
 
 ## Diagram
-
-(Add your Google Drive link here)
+(https://drive.google.com/file/d/1B0pl1VjbgnlnpdvShT_xx9-LxhA2hNrH/view?usp=sharing)
